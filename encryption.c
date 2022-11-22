@@ -1,4 +1,4 @@
-#include<stdio.h>//encrpyt
+#include<stdio.h>
 #include<stdlib.h>
 void search(char *snt,int size);
 void reverseSearch(char *snt,int size);
